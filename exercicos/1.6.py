@@ -27,3 +27,6 @@ elif (jogador == "pedra" and computador == "tesoura") or \
     print("Você venceu!")
 else:
     print("Você perdeu!")
+
+
+
