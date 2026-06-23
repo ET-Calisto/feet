@@ -4,7 +4,7 @@ d = int(input("Qual dia você nasceu? "))
 m = int(input("Qual mês você nasceu? "))
 
 if m == 1 and d <=19 or m ==12 and d >= 22:
-    print("Você é de capricornio!")
+    print("Você é de iiirrrrí!")
     # Capricórnio: 22 de dezembro a 19 de janeiro
 elif m ==1 and d >=21 or m == 2 and d >= 1 and d <=18:
     print("Você é de Aquario!")
@@ -37,7 +37,7 @@ elif m==10 and d>=23 or m==11 and d<=21:
     print("Você é de Escorpião!") 
     # Escorpião: 23 de outubro a 21 de novembro
 elif m==11 and d>=22 or m==12 and d<=21:
-    print("Você é de iiirrrrí!") 
+    print("Você é de Sagitário!") 
     # Sagitário: 22 de novembro a 21 de dezembro
 
 else:
